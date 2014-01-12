@@ -49,7 +49,6 @@ Theme Styles
 *******************************************************************************/
 
 body {
-  height: 100%;
   box-sizing: border-box;
   color:#373737;
   background: #212121;
@@ -286,7 +285,6 @@ Full-Width Styles
 }
 
 #header_wrap {
-  min-height: 100%;
   background: #212121;
   background: -moz-linear-gradient(top, #373737, #212121);
   background: -webkit-linear-gradient(top, #373737, #212121);
